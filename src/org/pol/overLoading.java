@@ -14,6 +14,8 @@ public class overLoading {
 	public void movies(long o,float f) {
 		System.out.println("Likes "+o);
 		System.out.println("Perday likes "+f);
+		System.out.println("1-2");
+		System.out.println("3-4");
 	}
 	
 	public static void main(String[]args) {
